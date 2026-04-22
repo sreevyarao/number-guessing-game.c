@@ -1,6 +1,7 @@
 This project was built as part of strengthening my C programming fundamentals.
 <br>
  🎯 Number Guessing Game in C
+ <br>
 A simple command-line number guessing game built using C.
 
 🚀 Features
