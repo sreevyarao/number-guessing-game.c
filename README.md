@@ -42,3 +42,7 @@ This project was created to strengthen my understanding of core programming conc
 gcc main.c -o game
 2.Run the program:
 ./game   
+
+![Game](screenshots/gameplay.png)
+<br>
+Run the program using main.c file
